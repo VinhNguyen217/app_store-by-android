@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "865020290879",
+    "project_id": "shoke-app-42a4c",
+    "storage_bucket": "shoke-app-42a4c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:865020290879:android:977476467b8c4bc503958a",
+        "android_client_info": {
+          "package_name": "com.example.shoke_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "865020290879-rosvnuip200d7fggf1lpsqb6ubdpvfbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAesMcqGZtAhJochKxFxfFk1Tyww7M3uG8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "865020290879-rosvnuip200d7fggf1lpsqb6ubdpvfbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
